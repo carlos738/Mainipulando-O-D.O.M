@@ -1,2 +1,2 @@
-# Mainipulando-O-D.O.M
+# Manipulando-O-D.O.M
 MANIPULANDO  O DOM USANDO , O DARK MODE E O LIGHT MODE.
